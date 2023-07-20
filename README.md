@@ -1,4 +1,4 @@
-# Project Name: Wikipedia Names Data Collector
+# Project Name: Wikipedia Given names and Surnams Data Collector
 
 ## Overview
 This project is a data collection tool that extracts information from Wikipedia pages containing first and last names. It utilizes the Wikidata API to fetch additional data based on a unique identifier for each name. The collected data is stored in a single data frame with categorical values, making it easy to analyze and use for various applications.
